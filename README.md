@@ -17,5 +17,8 @@
    <img align="center" alt="css3" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img align="center" alt="css3" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit"/>
 </div><br>
-Sou apaixonado por tecnologia e acredito muito que ela pode ser uma ferramenta que facilita a vida das pessoas em todas as áreas
--[Gmai:diegogruber200@gmail.com]
+Sou apaixonado por tecnologia e acredito muito que ela pode ser uma ferramenta que facilita a vida das pessoas em todas as áre
+Gmail:diegogruber200@gmai
+
+<div align-"center">
+<img src="https://user-images.githubusercontent.com/125654061/220221656-c145b363-4d72-4a1c-9276-bb79e6988c77.jpg" width="200px"/></div>
