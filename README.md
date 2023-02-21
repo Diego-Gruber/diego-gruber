@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/Diego-Gruber)
 [![Currículo](https://img.shields.io/badge/curriculo-375BD2?style=for-the-badge&logo=chainlink&logoColor=white
-)](https://curriculodiegogrubersi.web.app)
+)](https://cv-diegogruber.web.app/)
 
 ![DiegoGruber GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoGruber&show_icons=true&theme=tokyonight)
 
