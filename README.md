@@ -20,3 +20,5 @@
 Sou apaixonado por tecnologia e acredito muito que ela pode ser uma ferramenta que facilita a vida das pessoas em todas as áreas
 
 Gmail:diegogruber200@gmail.com
+
+![snake gif](https://github.com/diego-gruber/diego-gruber/blob/output/github-contribution-grid-snake.svg)
